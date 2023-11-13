@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Database": "Server=localhost;Database=Store;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"
+  }
+}
